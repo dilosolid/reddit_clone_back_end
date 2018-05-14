@@ -1,0 +1,23 @@
+{
+  "name": "reddit_clone_back_end",
+  "version": "1.0.0",
+  "description": "Reddit Clone Back End - Created with NodeJs Express and MongoDB",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilosolid/reddit_clone_back_end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilosolid/reddit_clone_back_end/issues"
+  },
+  "homepage": "https://github.com/dilosolid/reddit_clone_back_end#readme"
+}
